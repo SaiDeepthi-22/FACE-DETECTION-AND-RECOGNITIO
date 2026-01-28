@@ -1,4 +1,4 @@
-##Face Detection & Recognition System
+## Face Detection & Recognition System
 
 This project is a simple AI-based application that detects and recognizes faces in images or videos using **Haar Cascade (OpenCV)** for face detection and **LBPH (Local Binary Pattern Histogram)** for face recognition.
 
